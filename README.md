@@ -1,6 +1,6 @@
 Yo guys, so I built a game called Street Hustle using Python and Pygame. Here's a quick breakdown 👇
 What is it?
-It's a text-based adventure game where you play as a broke student surviving 3 days before your parents send money. You start with Rs.500 and make decisions every day — hustle with your friend, attend extra classes, lend money to classmates, take a startup job. Every choice affects your Money, Energy and Reputation stats. There's even randomness built in — just like real life, sometimes you do everything right and still get played 😭
+It's a text-based adventure game where you play as a broke student surviving 3 days before your parents send money. You start with Rs.500 and make decisions every day hustle with your friend, attend extra classes, lend money to classmates, take a startup job. Every choice affects your Money, Energy and Reputation stats. There's even randomness built in — just like real life, sometimes you do everything right and still get played 😭
 Why Python + Pygame?
 Python because it's clean and beginner friendly. Pygame because I wanted actual graphics — clickable buttons, visual stat bars, a proper game window. Not just boring terminal text.
 What I learned?
